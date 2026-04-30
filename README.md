@@ -12,7 +12,8 @@ Python、LangChain、通义千问大模型
 
 ## 项目结构
 - python qa_bot.py  主程序
-
+- flow.png        业务流程图
+  
 ## 运行
 1. 配置环境变量：`DASHSCOPE_API_KEY`
 2. 安装依赖：`pip install langchain langchain-community dashscope`
